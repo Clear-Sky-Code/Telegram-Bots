@@ -4,7 +4,7 @@ from time import sleep
 global OFFSET
 OFFSET = 0
 
-botToken = "7684765245:AAGrxdSI_YFU9m7AhcK3Ma3eGAMeud0iFMI"
+botToken = "7541470537:AAHrKAT-c1e4ayZmGyWPxU969Z8_8V0bifk"
 
 global requestURL
 global sendURL
